@@ -10,6 +10,11 @@
     <brk></brk>
     <rev>Reverser</rev>
   </loco>
+  <loco id="DB BR 426b nd">
+    <thr>ThrottleAndBrake</thr>
+    <brk></brk>
+    <rev>Reverser</rev>
+  </loco>
   <loco id="MA DB Baureihe 101 Engine">
     <thr>VirtualThrottle</thr>
     <brk>VirtualBrake</brk>
