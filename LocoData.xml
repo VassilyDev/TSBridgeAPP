@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locos>
+  <loco id="DB ICE 2 Power Car 402">
+    <thr>VirtualThrottle</thr>
+    <brk>VirtualBrake</brk>
+    <rev>Reverser</rev>
+  </loco>
   <loco id="ICE3 A driving">
     <thr>VirtualThrottle</thr>
     <brk>VirtualBrake</brk>
