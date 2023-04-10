@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locos>
+  <loco id="[FC] Class170 DMOCL ScotRail">
+    <thr>ThrottleAndBrake</thr>
+    <brk></brk>
+    <rev>Reverser</rev>
+  </loco>
   <loco id="Class170 DMOSLB SP">
     <thr>ThrottleAndBrake</thr>
     <brk></brk>
