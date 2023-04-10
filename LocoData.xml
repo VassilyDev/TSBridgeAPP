@@ -50,9 +50,19 @@
     <brk></brk>
     <rev>Reverser</rev>
   </loco>
+  <loco id="DB Baureihe 101 Engine">
+    <thr>Regulator</thr>
+    <brk>VirtualBrake</brk>
+    <rev>Reverser</rev>
+  </loco>
   <loco id="MA DB Baureihe 101 Engine">
     <thr>VirtualThrottle</thr>
     <brk>VirtualBrake</brk>
+    <rev>Reverser</rev>
+  </loco>
+  <loco id="HH BR294 Engine">
+    <thr>ThrottleAndBrake</thr>
+    <brk></brk>
     <rev>Reverser</rev>
   </loco>
   <loco id="0-4-0ST Invincible">
@@ -72,11 +82,6 @@
   </loco>
   <loco id="Acela PowerCar">
     <thr>VirtualThrottle</thr>
-    <brk>VirtualBrake</brk>
-    <rev>Reverser</rev>
-  </loco>
-  <loco id="DB Baureihe 101 Engine">
-    <thr>Regulator</thr>
     <brk>VirtualBrake</brk>
     <rev>Reverser</rev>
   </loco>
