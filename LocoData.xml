@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locos>
+  <loco id="BR407 End wagon 1.Class (407.0 EW01)">
+    <thr>VirtualThrottle</thr>
+    <brk>VirtualBrake</brk>
+    <rev>Reverser</rev>
+  </loco>
+  <loco id="BR407 End wagon 2.Class (407.0 EW01)">
+    <thr>VirtualThrottle</thr>
+    <brk>VirtualBrake</brk>
+    <rev>Reverser</rev>
+  </loco>
   <loco id="GR-BR151 002-3">
     <thr>Regulator</thr>
     <brk>TrainBrakeControl</brk>
