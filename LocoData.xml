@@ -47,7 +47,7 @@
   </loco>
   <loco id="DB Baureihe 101 Engine">
     <thr>Regulator</thr>
-    <brk>VirtualBrake</brk>
+    <brk>DynamicBrake</brk>
     <rev>Reverser</rev>
   </loco>
   <loco id="BR294 Engine">
