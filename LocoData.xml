@@ -105,6 +105,26 @@
     <brk>TrainBrakeControl</brk>
     <rev>Reverser</rev>
   </loco>
+  <loco id="Class 47 InterCity S">
+    <thr>Regulator</thr>
+    <brk>TrainBrakeControl</brk>
+    <rev>Reverser</rev>
+  </loco>
+  <loco id="Class 47 Large Logo">
+    <thr>Regulator</thr>
+    <brk>TrainBrakeControl</brk>
+    <rev>Reverser</rev>
+  </loco>
+  <loco id="Class 47 Rail Express">
+    <thr>Regulator</thr>
+    <brk>TrainBrakeControl</brk>
+    <rev>Reverser</rev>
+  </loco>
+  <loco id="Class 47 Triple Grey">
+    <thr>Regulator</thr>
+    <brk>TrainBrakeControl</brk>
+    <rev>Reverser</rev>
+  </loco>
   <loco id="Class 483 DMSO LT">
     <thr>VirtualThrottle</thr>
     <brk>TrainBrakeControl</brk>
